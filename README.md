@@ -35,21 +35,20 @@ To install the required dependencies, you can use pip:
 ## Screenshots
 
 ### Count Plot
-![Bar Chart](screenshots/countplot.png)
-*Bar chart showing the distribution of scores across different subjects.*
+![Count Plot](screenshots/countplot.png)
+*Count plot showing the distribution of scores across different subjects.*
 
-### BOx Plot
-![Bar Chart](screenshots/boxplot.png)
-*Bar chart showing the distribution of scores across different subjects.*
+### Box Plot
+![Box Plot](screenshots/boxplot.png)
+*Box plot showing the distribution of scores across different subjects.*
 
 ### Heat Map
-![Bar Chart](screenshots/heatmap.png)
-*Bar chart showing the distribution of scores across different subjects.*
-
+![Heat Map](screenshots/heatmap.png)
+*Heat map showing the correlation between different subjects.*
 
 ### Pie Chart 
-![Scatter Plot](screenshots/piechart.png)
-*Scatter plot demonstrating the relationship between study hours and scores.*
+![Pie Chart](screenshots/pie.png)
+*Pie chart demonstrating the distribution of scores across different categories.*
 
 ## Contributing
 
