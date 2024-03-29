@@ -4,7 +4,7 @@ This project involves the visualization of student scores using various charts a
 
 ## Introduction
 
-This project aims to provide visual representations of student scores to facilitate better understanding and analysis of their performance. By utilizing different types of charts and diagrams, such as bar charts, pie charts, histograms, and scatter plots, we can explore patterns, trends, and relationships within the data.
+This project focuses on visualizing student scores using various charts and diagrams, aiming to provide insights into their performance and score distribution. By employing different visualization techniques such as count plots, box plots, heat maps, and pie charts, we can effectively analyze and interpret the data to understand trends, patterns, and correlations among different subjects and categories.
 
 ## Features
 
